@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Introduction:
+This webpage will serve as a resume of sorts, chronicling the assignments I've accomplished on Github and anything else that may be of note.
 
-You can use the [editor on GitHub](https://github.com/Mozz96/mozz96.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://donnajoyusher.com/wp-content/uploads/2015/12/aboutme.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me:
 
-### Markdown
+My name is Jeremy Martinez, I'm a student at Northwest Vista College studying for a degree in game development, focusing on the production aspect of game creation. I am a graduate from Thomas Jefferson High School, and I am a musician as well, specializing in percussion instruments such as the drums and piano.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Notable Works:
 
-```markdown
-Syntax highlighted code block
+Here I will link some of the assignments and other works that I feel are worth displaying (These will be updated when applicable):
 
-# Header 1
-## Header 2
-### Header 3
+[Here you can find my GAME2338 (Game Testing) game reviews](https://github.com/Mozz96/GAME2338)
 
-- Bulleted
-- List
+![Image](http://dsmithclassroomse.weebly.com/uploads/6/5/8/1/65810263/4802843_orig.png)
 
-1. Numbered
-2. List
+### Contact me:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mozz96/mozz96.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact me for any inquiries through my emails:
+themozz96@gmail.com
+OR
+mozz96@live.com
