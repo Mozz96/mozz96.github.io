@@ -11,7 +11,7 @@ My name is Jeremy Martinez, I'm a student at Northwest Vista College studying fo
 
 Here I will link some of the assignments and other works that I feel are worth displaying (These will be updated when applicable):
 
-[Here you can find my GAME2338 (Game Testing) game reviews](https://github.com/Mozz96/GAME2338)
+[Here you can find my GAME2338 (Game Testing) assignments](https://github.com/Mozz96/GAME2338)
 
 ![Image](http://dsmithclassroomse.weebly.com/uploads/6/5/8/1/65810263/4802843_orig.png)
 
